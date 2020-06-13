@@ -7,8 +7,6 @@
 ![alt text](https://github.com/Dimcikovski/SILab2/blob/master/Lab2_control_flow_graph.jpg?raw=true)
 
 ### Цикломатска комплексност
-E ми изнесува 14
-Н ми иснесува 14
-P ми иснесува 1
+E ми изнесува 15, Н ми иснесува 15, P ми иснесува 1
 
 E – N + 2*P => 11-11 + 2*1 = 2
